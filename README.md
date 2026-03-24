@@ -29,6 +29,7 @@ The final phase integrates the developed modules into a cohesive, heterogeneous 
 * **System Finalization:** Completing the autonomous pipeline where a single trigger initiates the entire sequence from proximity detection to successful credential recovery.
 
 ### Collaborative Framework Architecture
+
 ```mermaid
 graph TD
     subgraph "Central Orchestrator (macOS - Apple Silicon)"
@@ -50,11 +51,11 @@ graph TD
     O -- Command --> R2
     O -- Command --> RN
 
-    style M fill:#f9f,stroke:#333,stroke-width:2px
-    style G fill:#ccf,stroke:#333,stroke-width:2px
-    style R1 fill:#ff9,stroke:#333
-    style R2 fill:#ff9,stroke:#333
-    style RN fill:#ff9,stroke:#333
+    style M fill:#f9f,stroke:#333,stroke-width:2px;
+    style G fill:#ccf,stroke:#333,stroke-width:2px;
+    style R1 fill:#ff9,stroke:#333;
+    style R2 fill:#ff9,stroke:#333;
+    style RN fill:#ff9,stroke:#333;
 
 ---
 
