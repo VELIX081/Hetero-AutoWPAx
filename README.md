@@ -57,6 +57,7 @@ graph TD
     style R2 fill:#ff9,stroke:#333;
     style RN fill:#ff9,stroke:#333;
 
+
 ---
 
 ## Technical Specifications
