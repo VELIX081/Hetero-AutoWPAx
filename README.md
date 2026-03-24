@@ -71,4 +71,4 @@ graph TD
 This framework is intended for professional security research and authorized penetration testing only. The author holds no responsibility for unauthorized use or damages resulting from the application of this research. Use of these tools in environments without explicit consent is strictly prohibited by law.
 
 ## License
-Licensed under the GNU General Public License v3.0 (GPLv3).
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
